@@ -91,10 +91,7 @@ section {
     max-width: 60rem;
 }
 
-.home
-{
-    background: url('/images/home1.jpg') no-repeat;
-}
+
 
 .home-content h1 {
     position: relative;

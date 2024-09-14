@@ -86,7 +86,12 @@ section {
 }
 
 
-
+.home
+{
+    background: url(images/home1.jpg) no repeat;
+    background-size: cover;
+    background-position: center;
+}
 .home-content {
     max-width: 60rem;
 }

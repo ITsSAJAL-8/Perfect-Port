@@ -91,7 +91,9 @@ section {
     max-width: 60rem;
 }
 
-
+.home{
+    background-color: yellow;
+}
 
 
 .home-content h1 {

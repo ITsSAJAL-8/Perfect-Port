@@ -90,6 +90,7 @@ section {
 .home-content {
     max-width: 60rem;
 }
+
 .home {
     display: flex;
     align-items: center;

@@ -307,7 +307,7 @@ span {
 }
 
 .about-img img {
-    width: 60%;
+    width: 90%;
     border-radius: 50%;
     border: .2rem solid var(--main-color);
 }

@@ -993,7 +993,7 @@ section:nth-child(odd) .animate.scroll,
 }
 */
 
-/* KEYFRAMES ANIMATION */
+/* KEYFRAMES ANIMATION 
 @keyframes homeBgText {
 
     0%,
@@ -1027,7 +1027,7 @@ section:nth-child(odd) .animate.scroll,
     81% {
         opacity: 0;
     }
-}
+}*/
 
 @keyframes aboutSpinner {
     100% {

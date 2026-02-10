@@ -698,7 +698,7 @@ span {
     color: var(--main-color);
 }
 
-/* ANIMATION RELOAD AND SCROLL */
+/* ANIMATION RELOAD AND SCROLL 
 .animate {
     position: absolute;
     top: 0;
@@ -745,7 +745,7 @@ section:nth-child(odd) .animate.scroll,
     width: 0;
 }
 
-::-moz-selection { /* Code for Firefox */
+::-moz-selection { /* Code for Firefox 
     color: var(--second-bg-color);
     background: var(--main-color);
   }
@@ -754,7 +754,7 @@ section:nth-child(odd) .animate.scroll,
     color: var(--second-bg-color);
     background: var(--main-color);
   }
-
+*/
 
 /* BREAKPOINTS */
 @media (max-width: 1200px) {
@@ -854,7 +854,7 @@ section:nth-child(odd) .animate.scroll,
 }
 
 
-/* BREAKPOINTS 
+/* BREAKPOINTS */
 @media (max-width: 1200px) {
     html {
         font-size: 55%;
@@ -991,9 +991,9 @@ section:nth-child(odd) .animate.scroll,
         font-size: 5rem;
     }
 }
-*/
 
-/* KEYFRAMES ANIMATION 
+
+/* KEYFRAMES ANIMATION */
 @keyframes homeBgText {
 
     0%,
@@ -1027,7 +1027,7 @@ section:nth-child(odd) .animate.scroll,
     81% {
         opacity: 0;
     }
-}*/
+}
 
 @keyframes aboutSpinner {
     100% {

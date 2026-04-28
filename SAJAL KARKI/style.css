@@ -439,8 +439,12 @@ span {
 }
 
 .education-content .content p {
-    font-size: 2rem;
+    font-size: 1.6rem;
     padding-top: .5rem;
+}
+.education-content .content p ul{
+    font-size: 1.6rem;
+    padding-top: 0.5rem;
 }
 
 .skills {

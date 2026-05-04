@@ -150,6 +150,7 @@ section {
 
 .home-content p {
     position: relative;
+    text-align: justify;
     font-size: 1.7rem;
     margin: 2rem 0 4rem;
 }

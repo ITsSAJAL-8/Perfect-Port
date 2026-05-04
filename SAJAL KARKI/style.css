@@ -95,7 +95,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: var(--bg-color);
+    background: url('images/nice.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -150,7 +150,6 @@ section {
 
 .home-content p {
     position: relative;
-    text-align: justify;
     font-size: 1.7rem;
     margin: 2rem 0 4rem;
 }

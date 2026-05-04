@@ -220,7 +220,7 @@ section {
 
 .home-sci {
     position: absolute;
-    bottom: 2rem;
+    bottom: 1rem;
     width: 350px;
     display: flex;
     justify-content: space-between;

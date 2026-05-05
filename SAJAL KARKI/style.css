@@ -771,6 +771,7 @@ span {
     .contact-info p .insta{
         margin: 1rem;
         color: white;
+        padding-left: 0.5rem;
         font-size: 1.4rem;
     }
 .contact-info strong{

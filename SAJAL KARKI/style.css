@@ -962,7 +962,31 @@ section:nth-child(odd) .animate.scroll,
         opacity: .6;
     }
 }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+ h1 {
+    color: #2a2a4e;
+    margin-bottom: 10px;
+}
 
+ .subtitle {
+      color: #666;
+      margin-bottom: 30px;
+      border-bottom: 2px solid #0077b6;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+    .contact-info {
+      background: #f0f8ff;
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 30px;
+    }
 
 @media (max-width: 462px) {
     .home-content h1 {

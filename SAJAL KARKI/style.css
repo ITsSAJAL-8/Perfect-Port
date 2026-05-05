@@ -763,6 +763,10 @@ span {
       margin: 1rem 0;
       font-size: 1.4rem;
     }
+    .contact-info p a{
+        font-size: 1rem;
+        color: #000000;
+    }
 .contact-info strong{
     color: #000000;
     font-size: 2rem;

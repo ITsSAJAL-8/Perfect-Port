@@ -711,6 +711,7 @@ span {
 }
 .container {
     max-width: 800px;
+    background: #f0f8ff;
     margin: 0 auto;
     border-radius: 16px;
     padding: 40px;
@@ -728,13 +729,34 @@ span {
       display: inline-block;
       padding-bottom: 5px;
     }
+    .services {
+      margin: 20px 0;
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .services ul {
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+    .services li {
+      margin: 5px 0;
+      color: #333;
+    }
     .contact-info {
       background: #f0f8ff;
       padding: 20px;
       border-radius: 12px;
       margin-bottom: 30px;
     }
-
+.contact-info p {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+    .contact-info a {
+      color: #0077b6;
+      text-decoration: none;
+    }
 /* ANIMATION RELOAD AND SCROLL 
 .animate {
     position: absolute;

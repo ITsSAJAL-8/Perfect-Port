@@ -710,7 +710,7 @@ span {
     color: var(--main-color);
 }
 .container {
-    max-width: 800px;
+    max-width: 50rem;
     background: #f0f8ff;
     margin: 0 auto;
     border-radius: 16px;
@@ -719,48 +719,79 @@ span {
 }
  h1 {
     color: #2a2a4e;
-    margin-bottom: 10px;
+    margin-bottom: 2rem;
+    text-align: center;
 }
 
  .subtitle {
+       
       color: #666;
-      margin-bottom: 30px;
+      font-size: 1.4rem;
+      margin-bottom: 1.5rem;
       border-bottom: 2px solid #0077b6;
       display: inline-block;
-      padding-bottom: 5px;
+      padding-bottom: 0.5rem;
     }
     .services {
-      margin: 20px 0;
-      background: #e88e8e;
-      padding: 15px;
-      border-radius: 10px;
+      margin: 1rem 0;
+      background: #8ee8be;
+      padding: 1rem;
+      border-radius: 1rem;
     }
     .services ul {
-      margin-left: 20px;
-      margin-top: 10px;
+      margin-left: 2rem;
+      margin-top: 1.2rem;
     }
     .services li {
-      margin: 5px 0;
-      color: #333;
+      margin: 0.8rem 0;
+      color: #0d0d0d;
+      font-weight: 700;
+      font-style: italic;
+    }
+    .services  strong{
+      font-size: 1.4rem;
     }
     .contact-info {
       background: #71b2eb;
-      padding: 20px;
-      border-radius: 12px;
-      margin-bottom: 30px;
+      padding: 1.4rem;
+      border-radius: 1rem;
+      margin-bottom: 2rem;
     }
 .contact-info p {
-      margin: 10px 0;
-      font-size: 16px;
+      margin: 1rem 0;
+      font-size: 1.4rem;
     }
 .contact-info strong{
-    color: #1ABC9C;
-    font-size: 3rem;
+    color: #000000;
+    font-size: 2rem;
 
     }
     .contact-info a {
-      color: #0077b6;
+      color: #095076;
       text-decoration: none;
+    }
+  .button {
+      text-align: center;
+    }
+    .btn {
+      
+      display: inline-block;
+      background: #006db6;
+      color: #fff;
+      padding: 0.8rem 1.8rem;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: 600;
+      
+    }
+
+    p small {
+      text-align: center;
+      display: block;
+      margin-top: 0.3rem;
+      font-size: 1rem;
+      color: #333;
     }
 /* ANIMATION RELOAD AND SCROLL 
 .animate {

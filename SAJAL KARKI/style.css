@@ -222,11 +222,11 @@ section {
 
 .home-sci {
     position: absolute;
-    bottom: 0.3rem;
+    bottom: 0.5rem;
     width: 400px;
     display: flex;
     justify-content: space-between;
-    padding-top: 3rem;
+    
 }
 
 .home-sci a {

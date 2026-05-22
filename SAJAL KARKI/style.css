@@ -18,7 +18,7 @@
     --main-color: #00abf0;
 }
 
-html {
+    html {
     font-size: 62.5%;
     overflow-x: hidden;
 }
@@ -711,7 +711,7 @@ span {
 }
 .container {
     max-width: 70rem;
-    background: #f0f8ff;
+    background:#8ee8be;
     margin: 0 auto;
     border-radius: 16px;
     padding: 40px;
@@ -734,7 +734,7 @@ span {
     }
     .services {
       margin: 1rem 0;
-      background: #8ee8be;
+      background: #00abf0;
       padding: 1rem;
       border-radius: 1rem;
     }

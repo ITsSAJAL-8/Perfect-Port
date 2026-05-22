@@ -108,7 +108,7 @@ section {
     font-weight: 700;
     line-height: 1;
     color: var(--main-color);
-    padding-top: 2rem;
+    padding-top: 5rem;
 }
 .home-content h1 span {
     color:var(--main-color);
@@ -152,7 +152,8 @@ section {
     position: relative;
     font-size: 1.7rem;
     margin: 3rem 0 4rem;
-    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
 }
 .btn-box {
     position: relative;

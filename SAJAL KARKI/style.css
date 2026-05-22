@@ -115,8 +115,8 @@ section {
 }
 
 .home-content .text-animate {
-    position: relative;
-    width: 32rem;
+    position: static(left);
+    width: 36rem;
 }
 
 .home-content .text-animate h3 {
@@ -151,7 +151,8 @@ section {
 .home-content p {
     position: relative;
     font-size: 1.7rem;
-    margin: 2rem 0 4rem;
+    margin: 3rem 0 4rem;
+    padding-top: 2rem;
 }
 .btn-box {
     position: relative;

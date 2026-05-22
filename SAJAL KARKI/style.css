@@ -82,14 +82,14 @@ body {
 
 section {
     min-height: 100vh;
-    padding: 10rem  2rem;
+    padding: 10rem 9% 2rem;
 }
 
 
 
 .home-content {
     max-width: 80rem;
-    margin-bottom: 2rem;
+    
 }
 
 .home {

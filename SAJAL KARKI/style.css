@@ -88,7 +88,7 @@ section {
 
 
 .home-content {
-    max-width: 60rem;
+    max-width: 80rem;
 }
 
 .home {
@@ -106,16 +106,16 @@ section {
     display: inline-block;
     font-size: 6rem; /* change here */
     font-weight: 700;
-    line-height: 1.3;
+    line-height: 1;
     color: var(--main-color);
+    padding-top: 2rem;
 }
-
 .home-content h1 span {
     color:var(--main-color);
 }
 
 .home-content .text-animate {
-    position: static(left);
+    position: relative;
     width: 36rem;
 }
 

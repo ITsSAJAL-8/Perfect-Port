@@ -222,8 +222,8 @@ section {
 
 .home-sci {
     position: absolute;
-    bottom: 1rem;
-    width: 350px;
+    bottom: 0.3rem;
+    width: 400px;
     display: flex;
     justify-content: space-between;
     padding-top: 3rem;

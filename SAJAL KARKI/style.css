@@ -795,10 +795,11 @@ span {
       display: inline-block;
       background: #006db6;
       color: #fff;
-      padding: 0.8rem 1.8rem;
-      border-radius: 0.5rem;
+      padding: 1rem 2rem;
+      border-radius: 1rem;
       text-decoration: none;
-      font-size: 1.2rem;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+      font-size: 1.4rem;
       font-weight: 600;
       
     }
